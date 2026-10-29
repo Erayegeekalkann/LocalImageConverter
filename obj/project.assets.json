@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eray1\\Downloads\\LocalImageConverter\\lolz.csproj",
+      "projectUniqueName": "C:\\Users\\eray1\\Downloads\\LocalImageConverter\\LocalImageConverter\\lolz.csproj",
       "projectName": "LocalImageConverter",
-      "projectPath": "C:\\Users\\eray1\\Downloads\\LocalImageConverter\\lolz.csproj",
+      "projectPath": "C:\\Users\\eray1\\Downloads\\LocalImageConverter\\LocalImageConverter\\lolz.csproj",
       "packagesPath": "C:\\Users\\eray1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eray1\\Downloads\\LocalImageConverter\\obj\\",
+      "outputPath": "C:\\Users\\eray1\\Downloads\\LocalImageConverter\\LocalImageConverter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eray1\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -89,4 +89,4 @@ The application creates a new filename when a converted file would otherwise ove
 
 ## License
 
-No license has been specified yet.
+MIT Liscense

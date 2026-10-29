@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LocalImageConverter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfe4ec22f162c267303374a63c09feb131bca0a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LocalImageConverter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LocalImageConverter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
